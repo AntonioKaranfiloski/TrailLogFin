@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "65895250092",
+    "firebase_url": "https://traillogrun.firebaseio.com",
+    "project_id": "traillogrun",
+    "storage_bucket": "traillogrun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65895250092:android:5ce74c7d020bac37",
+        "android_client_info": {
+          "package_name": "com.progy.elan.trailrunlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65895250092-s80p071qk40kvengemn6m74h98aqjjuq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.progy.elan.trailrunlog",
+            "certificate_hash": "da0f9441852d9b6d41d668cde61191787c3307e0"
+          }
+        },
+        {
+          "client_id": "65895250092-8f7lnqhop80bpi0b1shrs18k28j5d5n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1suV95wJy0JP0yNzs2EU8cXBslLeYYnE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65895250092-8f7lnqhop80bpi0b1shrs18k28j5d5n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
